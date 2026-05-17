@@ -1,41 +1,36 @@
-< Kaivalya Ingole /> 👨‍💻
-Cybersecurity Enthusiast | IT Support Learner | Developer | Founder of Vivah360
+👨‍💻 Kaivalya Ingole
 
-📍 Pune, Maharashtra, India
-📧 Open to Internship & Entry-Level IT Opportunities
+🔐 Cybersecurity Enthusiast • 🖥️ IT Support Learner • 🌐 Developer • 🚀 Founder of Vivah360
 
 🚀 About Me
 
-Hello! I'm Kaivalya Ingole, an engineering student passionate about:
+🎓 Engineering student passionate about technology, cybersecurity, and problem solving.
+💡 I enjoy building real-world applications, learning modern technologies, and exploring IT infrastructure & security.
 
+🔥 Interests
 🔐 Cybersecurity & Ethical Hacking
 🖥️ IT Support & Networking
-🌐 Web Development
+🌐 Full Stack Web Development
 🤖 AI & Automation Projects
-💡 Building Real-World Solutions
+📱 User-Friendly Digital Solutions
+🛠️ Tech Stack
+💻 Languages & Development
 
-I enjoy creating practical projects, learning new technologies, and solving technical problems.
 
-🛠️ Technical Skills
-💻 IT & Support
-Windows Troubleshooting
-Desktop & Hardware Support
-Printer & Peripheral Support
-Basic Networking (LAN/Wi‑Fi, IP, DNS)
-Windows CMD & Batch Scripting
-🌐 Development
-HTML
-CSS
-JavaScript
-Python
-Flask
-C++
-Git & GitHub
-🔐 Cybersecurity
-Ethical Hacking Basics
-Digital Forensics
-Cyber Forensics
-Network Security Fundamentals
+
+
+🖥️ IT & Networking
+
+
+
+
+📚 Skills
+Category	Skills
+💻 IT Support	Windows Troubleshooting, Desktop Support, Printer Support
+🌐 Networking	LAN/Wi‑Fi, IP Addressing, DNS, Basic Networking
+🔐 Cybersecurity	Ethical Hacking Basics, Digital Forensics, Security Fundamentals
+⚙️ Development	Python, Flask, HTML, CSS, JavaScript, C++
+🛠️ Tools	Git, GitHub, CMD, Batch Scripting
 📜 Certifications
 
 ✅ MS-CIT
@@ -47,39 +42,51 @@ Network Security Fundamentals
 ✅ Digital Forensics Essentials – EC-Council
 ✅ Cyber Forensics – Great Learning
 
-🚧 Projects
+🚧 Featured Projects
 🎉 Vivah360
 
-A wedding vendor marketplace platform featuring:
+💍 A modern wedding vendor marketplace platform.
 
-Vendor listings
-Admin approval system
-AI photo selection
-Payment integration
-Customer & vendor dashboards
+Features:
+Vendor Listings
+Admin Approval Workflow
+AI Photo Selection
+Payment Integration
+Customer & Vendor Dashboards
+Smart Service Management
 📸 AI Wedding Photo Selector
 
-An AI-powered application that automatically selects the best wedding photos and supports premium downloads.
+🤖 AI-powered tool that automatically selects the best wedding photos and provides premium download support.
 
 🌾 Krishi Sakhi
 
-A voice-first AI farming assistant project designed to help farmers using simple interactions.
+🗣️ Voice-first AI farming assistant designed to help farmers through simple and accessible interaction.
 
 🏢 Internship Experience
-Toyota Internship Program
+🚗 Toyota Internship Program
 Workshop operations exposure
-Vehicle system understanding
-Technical troubleshooting experience
+Technical troubleshooting
+Vehicle systems understanding
 Maintenance support activities
-📈 Current Goals
-📚 Improve cybersecurity skills
-🧠 Learn advanced networking
-🚀 Build scalable projects
-💼 Start career in IT Support / Cybersecurity
+🎯 Current Goals
+🔐 Improve cybersecurity skills
+🧠 Learn advanced networking concepts
+🚀 Build scalable real-world applications
+💼 Start a professional career in IT Support & Cybersecurity
+📊 GitHub Stats
+
+
+
+
+
+
+
 🤝 Connect With Me
 
 📍 Pune, Maharashtra, India
 📞 9890013636
-💼 LinkedIn: kaivalyaingole30
 
-⭐ "Keep Learning • Keep Building • Keep Growing" ⭐
+
+
+
+⭐ Keep Learning • Keep Building • Keep Growing ⭐
